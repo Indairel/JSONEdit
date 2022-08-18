@@ -1,0 +1,212 @@
+{
+  "forecasts": [
+    {
+      "Date": "14.07.2022",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 21.47,
+      "The pressure is ": 1010
+    },
+    {
+      "Date": "15.07.2022",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 22.02,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "15.07.2022",
+      "Time": "16:00:37",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 22.02,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "16.07.2022",
+      "Time": "13:14:14",
+      "Current forecast is ": "few clouds",
+      "The maximum temperature is ": 21.62,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "17.07.2022",
+      "Time": "20:10:59",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 21.61,
+      "The pressure is ": 1020
+    },
+    {
+      "Date": "18.07.2022",
+      "Time": "20:35:58",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 23.23,
+      "The pressure is ": 1018
+    },
+    {
+      "Date": "18.07.2022",
+      "Time": "20:36:49",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 23.23,
+      "The pressure is ": 1018
+    },
+    {
+      "Date": "19.07.2022",
+      "Time": "06:04:09",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 19.9,
+      "The pressure is ": 1018
+    },
+    {
+      "Date": "20.07.2022",
+      "Time": "19:21:12",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 30.86,
+      "The pressure is ": 1016
+    },
+    {
+      "Date": "20.07.2022",
+      "Time": "19:21:49",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 30.86,
+      "The pressure is ": 1016
+    },
+    {
+      "Date": "20.07.2022",
+      "Time": "19:22:06",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 30.86,
+      "The pressure is ": 1016
+    },
+    {
+      "Date": "21.07.2022",
+      "Time": "20:51:30",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 27.9,
+      "The pressure is ": 1013
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:19:32",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 33.84,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:25:30",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 34.39,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:26:40",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 34.39,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:28:54",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 34.39,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:30:49",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 34.39,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "22.07.2022",
+      "Time": "15:31:08",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 34.39,
+      "The pressure is ": 1012
+    },
+    {
+      "Date": "26.07.2022",
+      "Time": "21:22:30",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 19.88,
+      "The pressure is ": 1009
+    },
+    {
+      "Date": "26.07.2022",
+      "Time": "21:22:51",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 19.88,
+      "The pressure is ": 1009
+    },
+    {
+      "Date": "27.07.2022",
+      "Time": "19:04:07",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 24.24,
+      "The pressure is ": 1011
+    },
+    {
+      "Date": "28.07.2022",
+      "Time": "20:47:00",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 21.9,
+      "The pressure is ": 1018
+    },
+    {
+      "Date": "30.07.2022",
+      "Time": "19:32:00",
+      "Current forecast is ": "light intensity shower rain",
+      "The maximum temperature is ": 19.9,
+      "The pressure is ": 1009
+    },
+    {
+      "Date": "01.08.2022",
+      "Time": "18:37:46",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 26.01,
+      "The pressure is ": 1010
+    },
+    {
+      "Date": "05.08.2022",
+      "Time": "18:19:30",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 32.14,
+      "The pressure is ": 1010
+    },
+    {
+      "Date": "08.08.2022",
+      "Time": "18:47:30",
+      "Current forecast is ": "light rain",
+      "The maximum temperature is ": 24.24,
+      "The pressure is ": 1022
+    },
+    {
+      "Date": "09.08.2022",
+      "Time": "18:32:07",
+      "Current forecast is ": "light rain",
+      "The maximum temperature is ": 23.64,
+      "The pressure is ": 1022
+    },
+    {
+      "Date": "16.08.2022",
+      "Time": "08:04:35",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 23.13,
+      "The pressure is ": 1006
+    },
+    {
+      "Date": "16.08.2022",
+      "Time": "20:34:36",
+      "Current forecast is ": "light rain",
+      "The maximum temperature is ": 27.09,
+      "The pressure is ": 1007
+    },
+    {
+      "Date": "18.08.2022",
+      "Time": "08:17:58",
+      "Current forecast is ": "clear sky",
+      "The maximum temperature is ": 26.01,
+      "The pressure is ": 1010
+    }
+  ]
+}
