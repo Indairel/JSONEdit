@@ -29,6 +29,14 @@
     {"Date": "09.08.2022", "Time": "18:32:07", "Current forecast is ": "light rain", "The minimum temperature is ": 21.47, "The maximum temperature is ": 23.64, "The pressure is ": 1022},
     {"Date": "16.08.2022", "Time": "08:04:35", "Current forecast is ": "clear sky", "The minimum temperature is ": 19.8, "The maximum temperature is ": 23.13, "The pressure is ": 1006},
     {"Date": "16.08.2022", "Time": "20:34:36", "Current forecast is ": "light rain", "The minimum temperature is ": 22.58, "The maximum temperature is ": 27.09, "The pressure is ": 1007},
-    {"Date": "18.08.2022", "Time": "08:17:58", "Current forecast is ": "clear sky", "The minimum temperature is ": 21.43, "The maximum temperature is ": 26.01, "The pressure is ": 1010}
+    {"Date": "18.08.2022", "Time": "08:17:58", "Current forecast is ": "clear sky", "The minimum temperature is ": 21.43, "The maximum temperature is ": 26.01, "The pressure is ": 1010},
+    {"Date": "30.08.2022", "Time": "14:38:16", "Current forecast is ": "few clouds", "The minimum temperature is ": 19.88, "The maximum temperature is ": 22.68, "The pressure is ": 1016},
+    {"Date": "16.10.2022", "Time": "22:08:28", "Current forecast is ": "clear sky", "The minimum temperature is ": 13.84, "The maximum temperature is ": 16.57, "The pressure is ": 1020},
+    {"Date": "24.10.2022", "Time": "22:06:16", "Current forecast is ": "fog", "The minimum temperature is ": 11.06, "The maximum temperature is ": 14.91, "The pressure is ": 1010},
+    {"Date": "27.10.2022", "Time": "22:31:30", "Current forecast is ": "broken clouds", "The minimum temperature is ": 10.31, "The maximum temperature is ": 13.21, "The pressure is ": 1024},
+    {"Date": "28.10.2022", "Time": "15:30:36", "Current forecast is ": "clear sky", "The minimum temperature is ": 17.19, "The maximum temperature is ": 19.95, "The pressure is ": 1020},
+    {"Date": "28.10.2022", "Time": "19:46:07", "Current forecast is ": "clear sky", "The minimum temperature is ": 14.94, "The maximum temperature is ": 16.57, "The pressure is ": 1020},
+    {"Date": "29.10.2022", "Time": "17:19:50", "Current forecast is ": "scattered clouds", "The minimum temperature is ": 14.88, "The maximum temperature is ": 16.47, "The pressure is ": 1017},
+    {"Date": "01.11.2022", "Time": "22:08:48", "Current forecast is ": "mist", "The minimum temperature is ": 9.88, "The maximum temperature is ": 11.42, "The pressure is ": 1015}
   ]
 }
